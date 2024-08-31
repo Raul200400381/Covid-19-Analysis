@@ -24,9 +24,4 @@ This repository contains various projects and data analyses related to the COVID
 - Pandas, NumPy, Matplotlib, Seaborn (Python libraries)
 - SQLite or any SQL database for running the SQL queries
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 This description provides a clear overview of the contents and usage of the repository.
